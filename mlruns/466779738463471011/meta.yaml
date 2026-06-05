@@ -1,0 +1,9 @@
+artifact_location: file:C:/Users/Hawi Mekonen/Desktop/credit-risk-model/mlruns/466779738463471011
+creation_time: 1780622707538
+effective_trace_archival_retention: null
+experiment_id: '466779738463471011'
+last_update_time: 1780622707538
+lifecycle_stage: active
+name: CreditRisk_Experiment
+trace_location: null
+workspace: default

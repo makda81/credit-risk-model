@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Hawi Mekonen/Desktop/credit-risk-model/mlruns/466779738463471011/models/m-7d2acd50e607426b9acb06a9fd7b470d/artifacts
+creation_timestamp: 1780622807604
+experiment_id: '466779738463471011'
+last_updated_timestamp: 1780622833137
+model_id: m-7d2acd50e607426b9acb06a9fd7b470d
+model_type: null
+name: model
+source_run_id: 255d284511c84ba2bdf2b355dfb29ada
+status: 2
+status_message: null

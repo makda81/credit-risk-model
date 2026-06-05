@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Hawi Mekonen/Desktop/credit-risk-model/mlruns/466779738463471011/255d284511c84ba2bdf2b355dfb29ada/artifacts
+end_time: 1780622833231
+entry_point_name: ''
+experiment_id: '466779738463471011'
+lifecycle_stage: active
+run_id: 255d284511c84ba2bdf2b355dfb29ada
+run_name: RandomForest_Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780622807220
+status: 3
+tags: []
+user_id: Hawi Mekonen

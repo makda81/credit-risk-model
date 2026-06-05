@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Hawi Mekonen/Desktop/credit-risk-model/mlruns/466779738463471011/00efa7455a4848fea62f8f35626d624e/artifacts
+end_time: 1780622786771
+entry_point_name: ''
+experiment_id: '466779738463471011'
+lifecycle_stage: active
+run_id: 00efa7455a4848fea62f8f35626d624e
+run_name: LogisticRegression_Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780622763352
+status: 3
+tags: []
+user_id: Hawi Mekonen

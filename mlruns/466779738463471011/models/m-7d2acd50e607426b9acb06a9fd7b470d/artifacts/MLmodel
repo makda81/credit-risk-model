@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Hawi Mekonen/Desktop/credit-risk-model/mlruns/466779738463471011/models/m-7d2acd50e607426b9acb06a9fd7b470d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-7d2acd50e607426b9acb06a9fd7b470d
+model_size_bytes: 695204
+model_uuid: m-7d2acd50e607426b9acb06a9fd7b470d
+prompts: null
+run_id: 255d284511c84ba2bdf2b355dfb29ada
+utc_time_created: '2026-06-05 01:26:48.286162'
